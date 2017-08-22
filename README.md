@@ -54,7 +54,7 @@ export default {
 ```
 
 ## サンプルプロジェクト
-[https://github.com/nekijak/riot-simple-loader-sample]()
+https://github.com/nekijak/riot-simple-loader-sample
 
 ## ライセンス
 
