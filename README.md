@@ -1,5 +1,5 @@
 # riot-simple-loader
-riot.js を webpack でプリコンパイルするためのシンプルな riot-loader です。
+riot.js のタグファイルを webpack でプリコンパイルするためのシンプルな riot-loader です。
 
 ## インストール方法
 ```bash
