@@ -1,0 +1,34 @@
+{
+  "name": "riot-simple-loader",
+  "version": "1.0.0",
+  "description": "riot.js tags compile loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nekijak/riot-simple-loader.git"
+  },
+  "author": {
+    "name": "Kentaro Kajino",
+    "email": "kentaro@kajiken.jp"
+  },
+  "keywords": [
+    "riot",
+    "riotjs",
+    "webpack",
+    "loader",
+    "compile"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekijak/riot-simple-loader/issues"
+  },
+  "homepage": "https://github.com/nekijak/riot-simple-loader",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "riot-compiler": "^3"
+  }
+}
